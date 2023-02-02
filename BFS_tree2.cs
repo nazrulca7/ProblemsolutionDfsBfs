@@ -10,7 +10,7 @@ namespace ConsoleApp3
     {
         //https://lightoj.com/problem/farthest-nodes-in-a-tree-ii
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
